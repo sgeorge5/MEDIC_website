@@ -1,5 +1,9 @@
 # MEDIC · Roadway Intelligence
 
+Website: https://sgeorge5.github.io/MEDIC_website/
+
+Repository: https://github.com/sgeorge5/MEDIC_website
+
 A complete static React + TypeScript website for **Monitoring and Early Detection Infrastructure Crafter**, a Stevens Institute of Technology senior design project. The public site explains the proposed supervised UAV inspection system; a separate application-style dashboard demonstrates inspection review with **12 clearly labeled synthetic records**.
 
 ## Run locally
@@ -48,7 +52,7 @@ The repository URL is empty by default, so no speculative GitHub link is display
 
 ## GitHub Pages — prepared for later publication
 
-**No repository has been created or published by this local implementation.** When you approve the design:
+The repository is configured for GitHub Pages. Pushes to `main` automatically test, build, and deploy the website. To reproduce the setup in another repository:
 
 1. Create the intended GitHub repository and push these source files, including `package-lock.json`, to its `main` branch. Do not push `node_modules` or `dist`.
 2. In the repository, open **Settings → Pages → Build and deployment → Source → GitHub Actions**.
